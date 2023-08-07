@@ -1,3 +1,3 @@
 while true do
-  game.ReplicatedStorage.MainEvent:FireSever("Stomp")
+  game.ReplicatedStorage.MainEvent:FireSever("gianghia2021")
 end
